@@ -17,3 +17,7 @@ Keyword selection, optimization and monitoring are part of the service; timeline
 ---
 
 *More questions? Message us on [Telegram](https://t.me/AlpinTamhas928).*
+
+### Can I order updates to my delivery?
+
+Yes - message us on Telegram mid-delivery and we adjust the pacing.
