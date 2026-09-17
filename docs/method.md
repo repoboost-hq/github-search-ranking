@@ -2,7 +2,16 @@
 
 ## How it works
 
-Search placement compounds: ranking brings visitors, visitors bring stars, stars reinforce ranking. It is the only signal on this list that keeps working after delivery.
+| Signal | How it works |
+|---|---|
+| **Repository name** | Strongest text-match signal - the exact phrase matters |
+| **Description** | The About one-liner, indexed and shown in results |
+| **Topics** | GitHub's search filters - under 5 topics you are absent from filtered searches |
+| **README content** | Full-text indexed; first 200 words carry the most weight |
+| **Stars & forks** | Engagement decides position once text relevance qualifies you |
+| **Recent activity** | Commits, issues and PRs in the last ~90 days |
+
+GitHub does not publish exact weights. Text relevance gets a repository into the candidate pool; engagement decides where it lands inside that pool. The first hundred stars change the most; after that, ranking compounds.
 
 ## Delivery window
 
