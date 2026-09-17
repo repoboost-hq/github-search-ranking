@@ -36,4 +36,4 @@ Yes. Demos of achieved ranks are available on request - live search results for 
 
 ---
 
-*More questions? Message us on [Telegram](https://t.me/AlpinTamhas928).*
+*More questions? The order flow, live updates and support are at buygithub.com.*

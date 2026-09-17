@@ -2,8 +2,8 @@
 
 Need help or have a question?
 
-- Telegram (fastest): https://t.me/AlpinTamhas928
+- Website: https://buygithub.com
 - Email: support@buygithub.com
 
 For documentation corrections, open an issue in this repository. For everything
-else, the two channels above are monitored around the clock.
+else, the website and email above are monitored around the clock.

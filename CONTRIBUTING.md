@@ -18,4 +18,4 @@ contributions are limited to corrections and improvements to the documentation.
 
 ## Questions
 
-Open an issue or message us on Telegram: https://t.me/AlpinTamhas928
+Open an issue or email support@buygithub.com.

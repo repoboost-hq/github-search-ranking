@@ -120,8 +120,7 @@ More from the org: [github.com/repoboost-hq](https://github.com/repoboost-hq)
 ---
 
 <p align="center">
-  <b><a href="https://t.me/AlpinTamhas928">💬 Talk to us on Telegram</a></b> &nbsp;|&nbsp;
-  <a href="https://buygithub.com/github-search-ranking/?utm_source=github&utm_medium=readme&utm_campaign=github-search-ranking">🌐 buygithub.com</a> &nbsp;|&nbsp;
+  <b><a href="https://buygithub.com/github-search-ranking/?utm_source=github&utm_medium=readme&utm_campaign=github-search-ranking">🌐 buygithub.com</a></b> &nbsp;|&nbsp;
   <a href="https://github.com/repoboost-hq">🧰 More from the org</a>
 </p>
 <p align="center"><sub>Independent service. Not affiliated with GitHub, Inc.</sub></p>
