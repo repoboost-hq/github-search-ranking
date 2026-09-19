@@ -15,6 +15,11 @@
   <img src="https://img.shields.io/github/last-commit/repoboost-hq/github-search-ranking?style=flat&color=22c55e&label=last%20commit" alt="last commit">
 </p>
 
+<p align="center">
+  <a href="https://buygithub.com/github-search-ranking/?utm_source=github&utm_medium=readme&utm_campaign=github-search-ranking"><img src="https://img.shields.io/badge/Website-GitHub%20Search%20Ranking-8B5CF6?style=for-the-badge" alt="Visit buygithub.com - GitHub search ranking, top 1-5 on any keyword"></a>
+  <a href="https://buygithub.com/blog/github-seo-rank-repository/?utm_source=github&utm_medium=readme&utm_campaign=github-search-ranking"><img src="https://img.shields.io/badge/Guide-How%20GitHub%20Search%20Works-181717?style=for-the-badge" alt="Guide: how GitHub repository search ranking works"></a>
+</p>
+
 # GitHub Search Ranking - Top 1-5 on Any Keyword You Name
 
 GitHub search is where developers look first. This service places your repository in the top 1-5 results for the keywords you choose - globally, not just in one region - and it holds there. This repository is both the documentation of that service and a practical guide to how GitHub search ranking actually works.
